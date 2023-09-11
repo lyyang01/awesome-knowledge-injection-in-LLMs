@@ -9,6 +9,7 @@
 4. [MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models](https://arxiv.org/pdf/2308.09729.pdf), Arxiv
 5. [Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering](https://arxiv.org/pdf/2309.02233.pdf), Arxiv
 6. [Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases](https://arxiv.org/pdf/2305.13269.pdf), Arxiv
+7. [KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering](https://arxiv.org/abs/2308.03638), Arxiv
 
 ## knowlege injection with external knowledge (Wiki or documents that is different from KB)
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
@@ -23,3 +24,4 @@
 ## knowledge probing benchmarks
 1. [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://aclanthology.org/2023.acl-long.546/), ACL2023
 2. [Do Large Language Models Know What They Don’t Know?](https://arxiv.org/abs/2305.18153), findings of ACL2023
+3. [Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938), ACL2023
