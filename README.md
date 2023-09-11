@@ -1,5 +1,6 @@
 # Knowledge Injection in the era of LLMs
 ## knowledge injection in the fine-tuning process
+The approach in this part mainly involves fine-tuning LLMs using domain-specific data, thereby resulting in numerous vertical domain LLMs. The generation of their dataset can be sourced from domain-specific knowledge graphs or online data, and so on. Here, we mainly list some open-source large models in the medical field.
 1. [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf), Briefings in Bioinformatics, 2022
 
 ## knowledge injection with KB
