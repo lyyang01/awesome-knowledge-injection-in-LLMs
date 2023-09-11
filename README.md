@@ -4,6 +4,7 @@ The approach in this part mainly involves fine-tuning LLMs using domain-specific
 1. [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf), Briefings in Bioinformatics, 2022
 
 ## knowledge injection with KB
+The approach in this part is mainly to integrate the domain knowledge base into LLMs, usually involving the graph related algorithms and the retrieval way from the knowledge base.
 1. [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://arxiv.org/abs/2210.00063), ICLR2023
 2. [Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs](https://arxiv.org/pdf/2309.03118.pdf), Arxiv
 3. [KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases](https://arxiv.org/pdf/2308.11761.pdf), Arxiv
