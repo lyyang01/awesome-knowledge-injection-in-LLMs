@@ -18,10 +18,12 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 7. [KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering](https://arxiv.org/abs/2308.03638), Arxiv
 
 ## knowlege injection with external knowledge (Wiki or documents that is different from KB)
+The method in this part mainly integrates externally available domain knowledge into LLMs. Note that this external knowledge is different from the knowledge graph. It is generally presented in the form of natural text (not a graph), so there is no need to use graphs to retrieve or query.
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
 2. [Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320), ACL2023
 
 ## knowledge injection with model self-driving
+This part organizes the methods of model self-driving to obtain domain knowledge. Specifically, this type of method designs prompts to allow the LLM to generate the required domain-related text by itself, and then uses the generated text to perform in-domain tasks.
 1. [Generate rather than Retrieve: Large Language Models are Strong Context Generators](https://arxiv.org/abs/2209.10063), ICLR2023
 2. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625), ICLR2023
 3. [Large Language Models Are Reasoning Teachers](https://arxiv.org/abs/2212.10071), ACL2023
