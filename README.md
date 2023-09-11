@@ -10,7 +10,7 @@
 5. [Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering](https://arxiv.org/pdf/2309.02233.pdf), Arxiv
 6. [Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases](https://arxiv.org/pdf/2305.13269.pdf), Arxiv
 
-##knowlege injection with external knowledge (Wiki or documents that is different from KB)
+## knowlege injection with external knowledge (Wiki or documents that is different from KB)
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
 2. [Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320), ACL2023
 
