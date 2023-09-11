@@ -1,4 +1,4 @@
-# Knowledge Injection in Era of LLMs
+# Knowledge Injection in the era of LLMs
 ## knowledge injection in the fine-tuning process
 1. [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf), Briefings in Bioinformatics, 2022
 
