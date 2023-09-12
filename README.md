@@ -22,6 +22,8 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 The method in this part mainly integrates externally available domain knowledge into LLMs. Note that this external knowledge is different from the knowledge graph. It is generally presented in the form of natural text (not a graph), so there is no need to use graphs to retrieve or query.
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
 2. [Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320), ACL2023
+3. [LLaMAIndex](https://github.com/jerryjliu/llama_index), Github, 2022
+4. [LangChain](https://github.com/langchain-ai/langchain), Github, 2022
 
 ## knowledge injection with model self-driving
 This part organizes the methods of model self-driving to obtain domain knowledge. Specifically, this type of method designs prompts to allow the LLM to generate the required domain-related text by itself, and then uses the generated text to perform in-domain tasks.
