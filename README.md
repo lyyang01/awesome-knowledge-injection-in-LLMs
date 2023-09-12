@@ -16,6 +16,7 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 5. [Augmenting Black-box LLMs with Medical Textbooks for Clinical Question Answering](https://arxiv.org/pdf/2309.02233.pdf), Arxiv
 6. [Chain of Knowledge: A Framework for Grounding Large Language Models with Structured Knowledge Bases](https://arxiv.org/pdf/2305.13269.pdf), Arxiv
 7. [KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering](https://arxiv.org/abs/2308.03638), Arxiv
+8. [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322), Arxiv
 
 ## knowlege injection with external knowledge (Wiki or documents that is different from KB)
 The method in this part mainly integrates externally available domain knowledge into LLMs. Note that this external knowledge is different from the knowledge graph. It is generally presented in the form of natural text (not a graph), so there is no need to use graphs to retrieve or query.
