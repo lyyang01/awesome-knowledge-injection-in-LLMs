@@ -2,10 +2,10 @@
 ## knowledge injection in the fine-tuning process
 The approach in this part mainly involves fine-tuning LLMs using domain-specific data, thereby resulting in numerous vertical domain LLMs. The generation of their dataset can be sourced from domain-specific knowledge graphs or online data, and so on. Here, we mainly list some open-source large models in the medical field.
 1. [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf), Briefings in Bioinformatics, 2022
-2. [DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/pdf/2304.01097.pdf), Arxiv
-3. [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://arxiv.org/ftp/arxiv/papers/2303/2303.14070.pdf), Arxiv
-4. [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://arxiv.org/pdf/2304.14454.pdf), Arxiv
-5. [HuatuoGPT, Towards Taming Language Models To Be a Doctor](https://arxiv.org/pdf/2305.15075.pdf), Arxiv
+2. [DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/pdf/2304.01097.pdf), Arxiv, 2023
+3. [ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge](https://arxiv.org/ftp/arxiv/papers/2303/2303.14070.pdf), Arxiv, 2023
+4. [PMC-LLaMA: Towards Building Open-source Language Models for Medicine](https://arxiv.org/pdf/2304.14454.pdf), Arxiv, 2023
+5. [HuatuoGPT, Towards Taming Language Models To Be a Doctor](https://arxiv.org/pdf/2305.15075.pdf), Arxiv, 2023
 
 ## knowledge injection with KB
 The approach in this part is mainly to integrate the domain knowledge base into LLMs, usually involving the graph related algorithms and the retrieval way from the knowledge base.
