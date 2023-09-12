@@ -28,6 +28,7 @@ This part organizes the methods of model self-driving to obtain domain knowledge
 2. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625), ICLR2023
 3. [Large Language Models Are Reasoning Teachers](https://arxiv.org/abs/2212.10071), ACL2023
 4. [Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step](https://aclanthology.org/2023.acl-long.150.pdf), ACL2023
+5. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), Arxiv
 
 ## knowledge probing benchmarks
 1. [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://aclanthology.org/2023.acl-long.546/), ACL2023
