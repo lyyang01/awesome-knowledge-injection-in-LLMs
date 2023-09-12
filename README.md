@@ -18,7 +18,7 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 7. [KITLM: Domain-Specific Knowledge InTegration into Language Models for Question Answering](https://arxiv.org/abs/2308.03638), Arxiv
 8. [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322), Arxiv
 
-## knowlege injection with external knowledge (Wiki or documents that is different from KB)
+## knowlege injection with external knowledge (document corpus that is different from KB)
 The method in this part mainly integrates externally available domain knowledge into LLMs. Note that this external knowledge is different from the knowledge graph. It is generally presented in the form of natural text (not a graph), so there is no need to use graphs to retrieve or query.
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
 2. [Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320), ACL2023
