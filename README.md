@@ -27,6 +27,7 @@ The method in this part mainly integrates externally available domain knowledge 
 3. [LLaMAIndex](https://github.com/jerryjliu/llama_index), Github, 2022
 4. [LangChain](https://github.com/langchain-ai/langchain), Github, 2022
 5. [ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://arxiv.org/pdf/2306.03901.pdf), Arxiv, 2023
+6. [The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature](https://arxiv.org/abs/2309.04198), Arxiv, 2023
 
 ## knowledge injection with model self-driving
 This part organizes the methods of model self-driving to obtain domain knowledge. Specifically, this type of method designs prompts to allow the LLM to generate the required domain-related text by itself, and then uses the generated text to perform in-domain tasks.
