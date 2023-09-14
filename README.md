@@ -1,5 +1,6 @@
 # Knowledge Injection in the era of LLMs
 ## knowledge injection in the pre-training or fine-tuning process
+
 The approach in this part mainly involves fine-tuning LLMs using domain-specific data, thereby resulting in numerous vertical domain LLMs. The generation of their dataset can be sourced from domain-specific knowledge graphs or online data, and so on. Here, we mainly list some open-source large models in the medical field.
 1. [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/pdf/2210.10341.pdf), Briefings in Bioinformatics, 2022
 2. [DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/pdf/2304.01097.pdf), Arxiv, 2023
@@ -8,6 +9,7 @@ The approach in this part mainly involves fine-tuning LLMs using domain-specific
 5. [HuatuoGPT, Towards Taming Language Models To Be a Doctor](https://arxiv.org/pdf/2305.15075.pdf), Arxiv, 2023
 
 ## knowledge injection with KB
+
 The approach in this part is mainly to integrate the domain knowledge base into LLMs, usually involving the graph related algorithms and the retrieval way from the knowledge base.
 1. [DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases](https://arxiv.org/abs/2210.00063), ICLR2023
 2. [Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs](https://arxiv.org/pdf/2309.03118.pdf), Arxiv
@@ -21,6 +23,7 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 10. [Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese](https://arxiv.org/abs/2309.04175), Arxiv
 
 ## knowlege injection with external knowledge (document corpus or other types of knowledge that is different from KB)
+
 The method in this part mainly integrates externally available domain knowledge into LLMs. Note that this external knowledge is different from the knowledge graph. It is generally presented in the form of natural text (not a graph), so there is no need to use graphs to retrieve or query.
 1. [Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework](https://arxiv.org/abs/2305.03268), ACL2023
 2. [Unified Demonstration Retriever for In-Context Learning](https://arxiv.org/abs/2305.04320), ACL2023
@@ -30,6 +33,7 @@ The method in this part mainly integrates externally available domain knowledge 
 6. [The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature](https://arxiv.org/abs/2309.04198), Arxiv, 2023
 
 ## knowledge injection with model self-driving
+
 This part organizes the methods of model self-driving to obtain domain knowledge. Specifically, this type of method designs prompts to allow the LLM to generate the required domain-related text by itself, and then uses the generated text to perform in-domain tasks.
 1. [Generate rather than Retrieve: Large Language Models are Strong Context Generators](https://arxiv.org/abs/2209.10063), ICLR2023
 2. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625), ICLR2023
@@ -38,6 +42,7 @@ This part organizes the methods of model self-driving to obtain domain knowledge
 5. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903), Arxiv
 
 ## knowledge probing benchmarks
+
 1. [When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories](https://aclanthology.org/2023.acl-long.546/), ACL2023
 2. [Do Large Language Models Know What They Don’t Know?](https://arxiv.org/abs/2305.18153), findings of ACL2023
 3. [Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation](https://arxiv.org/abs/2305.16938), ACL2023
