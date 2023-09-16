@@ -21,6 +21,7 @@ The approach in this part is mainly to integrate the domain knowledge base into 
 8. [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322), Arxiv
 9. [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554), Arxiv, 2023
 10. [Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Reliable Response Generation in Chinese](https://arxiv.org/abs/2309.04175), Arxiv
+11. [Two is Better Than One: Answering Complex Questions by Multiple Knowledge Sources with Generalized Links](https://arxiv.org/abs/2309.05201), Arxiv
 
 ## knowlege injection with external knowledge (document corpus or other types of knowledge that is different from KB)
 
