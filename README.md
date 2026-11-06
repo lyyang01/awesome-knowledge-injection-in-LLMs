@@ -33,6 +33,8 @@ The method in this part mainly integrates externally available domain knowledge 
 4. [LangChain](https://github.com/langchain-ai/langchain), Github, 2022
 5. [ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory](https://arxiv.org/pdf/2306.03901.pdf), Arxiv, 2023
 6. [The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature](https://arxiv.org/abs/2309.04198), Arxiv, 2023
+7. [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://openreview.net/forum?id=CyUq9D99vE), NeurIPS2025
+8. [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786), Arxiv, 2026
 
 ## knowledge injection with model self-driving
 
